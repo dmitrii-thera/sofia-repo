@@ -1,5 +1,6 @@
 # sofia-gantt-repo
 
+```mermaid
 gantt
     title Диаграмма Ганта
     dateFormat  YYYY-MM-DD
@@ -9,3 +10,4 @@ gantt
     section Секция 2
     Задача 1         :2014-01-12  , 12d
     Задача 2         : 24d
+```
