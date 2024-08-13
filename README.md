@@ -2,7 +2,7 @@
 
 ```mermaid
 gantt
-    title Диаграмма Ганта
+    title Диаграмма Софии
     dateFormat  YYYY-MM-DD
     section Секция 1
     Задача 1         :a1, 2014-01-01, 15d
@@ -14,7 +14,7 @@ gantt
 
 ```mermaid
 gantt
-    title Диаграмма Ганта 2
+    title Диаграмма Димочки
     dateFormat  YYYY-MM-DD
     section Секция 1
     Задача 1         :a1, 2014-01-01, 15d
