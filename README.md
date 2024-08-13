@@ -7,8 +7,6 @@
 
 
 
-## Димочка Actual
-
 ## All
 
 ```mermaid
