@@ -1,5 +1,7 @@
 # sofia-gantt-repo
 
+## запихнуть медведя в теремок
+
 ```mermaid
 gantt
     title Диаграмма Софии
