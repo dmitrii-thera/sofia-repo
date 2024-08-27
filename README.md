@@ -1,4 +1,4 @@
-# sofia-gantt-repo
+# sofia-repo
 
 > [!NOTE]
 > о том как запихнуть медведя в теремок
